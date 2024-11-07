@@ -1,9 +1,8 @@
 # Dae-Hyeon Ryu
-**Android Developer**<br>
-[[이력서]](https://teal-mouth-6a3.notion.site/889cb3e7caa8493ab9f073247e4b1175?pvs=4) <br>   
-부스트캠프 웹・모바일 7기 Android   
+   
+- 부스트캠프 웹・모바일 7기 Android<br>
 (2022.07 ~ 2022.12)   
-**NAVER WorksMobile**   
+- **NAVER WorksMobile - Android 개발**<br>
 **(2022.12 ~ 2023.02)**
 
 ---
