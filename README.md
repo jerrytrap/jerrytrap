@@ -1,9 +1,14 @@
 # Dae-Hyeon Ryu
    
+### 🏢 Experience
+- **NAVER WorksMobile - Android 개발**<br>
+  **(2022.12 ~ 2023.02)**
+
+### 📗 Education
 - 부스트캠프 웹・모바일 7기 Android<br>
 (2022.07 ~ 2022.12)   
-- **NAVER WorksMobile - Android 개발**<br>
-**(2022.12 ~ 2023.02)**
+- 프로그래머스 백엔드 데브코스<br>
+(2024.11 ~ 2025.04)
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerrytrap&show_icons=true&theme=buefy&count_private=true)
