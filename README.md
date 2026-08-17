@@ -11,5 +11,5 @@
 (2024.11 ~ 2025.04)
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerrytrap&show_icons=true&theme=buefy&count_private=true)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=jerrytrap)](https://github.com/stats-organization/github-stats-extended)
 [![Solved.ac eogus1027](http://mazassumnida.wtf/api/generate_badge?boj=eogus1027)](https://solved.ac/eogus1027) 
